@@ -1,7 +1,7 @@
 # 目录
-- [编程基础](https://github.com/realjc/learning_material_collection/tree/master/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
-- [SLAM](https://github.com/realjc/learning_material_collection/tree/master/SLAM)
-- [ROS](https://github.com/realjc/learning_material_collection/tree/master/ROS)
+- [编程基础](https://github.com/realjc/learning_material_collections/tree/master/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+- [SLAM](https://github.com/realjc/learning_material_collections/tree/master/SLAM)
+- [ROS](https://github.com/realjc/learning_material_collections/tree/master/ROS)
 
 ---
 ---
