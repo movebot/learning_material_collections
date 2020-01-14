@@ -19,4 +19,4 @@
 
 [Learn Robotics with JdeRobot](https://github.com/JdeRobot/RoboticsAcademy)
 
-[Cartographer源码分析.pdf] (https://github.com/XJTU-ICRA2020/Cartographer_ICRA/blob/master/Cartographer%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.pdf)
+[Cartographer源码分析.pdf](https://github.com/XJTU-ICRA2020/Cartographer_ICRA/blob/master/Cartographer%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.pdf)
