@@ -27,6 +27,7 @@
 #### 路径规划
 [Rapidly Exploring Random Tree](https://github.com/emreozanalkan/RRT)
 
+#### 深度学习
 
 ---
 ## 3、ROS
