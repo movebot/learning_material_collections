@@ -19,6 +19,9 @@
 
 [Rapidly Exploring Random Tree](https://github.com/emreozanalkan/RRT)
 
+[Rao-Blackwellized particle filters for quasiperiodic Gaussian processes](https://github.com/juhokokkala/rbpf_qpgp)
+
+
 ---
 ## 3、ROS
 [中国大学MOOC《机器人操作系统入门》代码](https://github.com/sychaichangkun/ROS-Academy-for-Beginners)
