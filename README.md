@@ -21,13 +21,16 @@
 
 [Rao-Blackwellized particle filters for quasiperiodic Gaussian processes](https://github.com/juhokokkala/rbpf_qpgp)
 
+#### 视觉SLAM
+[Python implementation of SLAM algorithm Stereo-PTAM](https://github.com/uoip/stereo_ptam)
+
 #### 三维重建
 [A curated list of papers & resources linked to 3D reconstruction from images.](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 #### 路径规划
 [Rapidly Exploring Random Tree](https://github.com/emreozanalkan/RRT)
 
-#### 深度学习
+#### 深度学习+SLAM
 
 ---
 ## 3、ROS
