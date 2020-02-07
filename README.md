@@ -41,6 +41,6 @@
 
 [Learn Robotics with JdeRobot](https://github.com/JdeRobot/RoboticsAcademy)
 
-[gilbreth](https://github.com/swri-robotics/gilbreth)
+[robotic product handling simulation: gilbreth](https://github.com/swri-robotics/gilbreth)
 
 
