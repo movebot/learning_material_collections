@@ -41,7 +41,6 @@
 
 [Learn Robotics with JdeRobot](https://github.com/JdeRobot/RoboticsAcademy)
 
-#### Gazebo
+[gilbreth](https://github.com/swri-robotics/gilbreth)
 
-#### Moveit
 
