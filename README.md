@@ -26,6 +26,8 @@
 #### 视觉SLAM
 [Python implementation of SLAM algorithm Stereo-PTAM](https://github.com/uoip/stereo_ptam)
 
+[A basic stereo vision SLAM system using Optical Flow](https://github.com/tiger20/OpticalSLAM)
+
 #### 三维重建
 [A curated list of papers & resources linked to 3D reconstruction from images.](https://github.com/openMVG/awesome_3DReconstruction_list)
 
