@@ -43,4 +43,8 @@
 
 [robotic product handling simulation: gilbreth](https://github.com/swri-robotics/gilbreth)
 
+## 4、机器学习
+
+[Inplement an CNN frame with Numpy, easy to learn, hard to use hhhh](https://github.com/wuziheng/CNN-Numpy)
+
 
