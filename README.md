@@ -49,4 +49,7 @@
 
 [Inplement an CNN frame with Numpy, easy to learn, hard to use hhhh](https://github.com/wuziheng/CNN-Numpy)
 
+[Deep Learning for 3D Point Clouds](https://github.com/QingyongHu/SoTA-Point-Cloud)
+
+[A list of papers and datasets about point cloud analysis (processing)](https://github.com/Yochengliu/awesome-point-cloud-analysis)
 
