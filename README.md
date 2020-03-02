@@ -24,6 +24,9 @@
 
 [Rao-Blackwellized particle filters for quasiperiodic Gaussian processes](https://github.com/juhokokkala/rbpf_qpgp)
 
+#### SFM
+[SFMedu: A Matlab-based Structure-from-Motion System for Education](https://github.com/jianxiongxiao/SFMedu)
+
 #### 视觉SLAM
 [Python implementation of SLAM algorithm Stereo-PTAM](https://github.com/uoip/stereo_ptam)
 
